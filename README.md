@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 #### My Made Tools
 - 📻 [cw web runner](https://cw.eim.world/)
-- 👏 [go-soumuradio](https://github.com/tomato3713/go-soumuradio)
+- 👏 [Go package for the API of searching radio station](https://github.com/tomato3713/soumuradio)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomato3713&hide=html&layout=compact)
