@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 -->
 
 #### 🔭 Links
-- 🌱 [about](https://std.neko-tomato.top/)
 - ⚡ [blog](https://tomato3713.hatenablog.com/)
 - 💬 [twitter](https://twitter.com/tomato3713/)
 - 📚 [Personal Wiki](https://wiki.neko-tomato.top/)
