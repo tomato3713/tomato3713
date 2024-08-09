@@ -9,11 +9,6 @@ Here are some ideas to get you started:
 
 #### 🔭 Links
 - ⚡ [blog](https://tomato3713.hatenablog.com/)
-- 💬 [twitter](https://twitter.com/tomato3713/)
-- 📚 ~~[Personal Wiki]()~~
-
-#### My Made Tools
-- 📻 [cw web runner](https://cw.neko-tomato.top/)
-- 👏 [Go package for the API of searching radio station](https://github.com/tomato3713/soumuradio)
+- 💬 [X](https://x.com/tomato3713/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomato3713&hide=html&layout=compact)
